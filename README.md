@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on Magazord Digital Commerce
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
@@ -13,10 +13,6 @@
 <p align="center">
   
 - 📋 Languages:
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-    ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    
 for-the-badge&logo=github&logoColor=white)
     
 - 💾 Databases:
