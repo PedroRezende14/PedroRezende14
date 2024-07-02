@@ -13,17 +13,16 @@
 <p align="center">
   
 - 📋 Languages:
-- 
+   Java, html, css, JS, php, c#
     
 - 💾 Databases:
-    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    MySQl, postgresql
     
 - 🎛️ Operating Systen:
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+    Windows
     
 - 💻 IDEs/Editors:
-
+    
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     
 
