@@ -20,7 +20,7 @@
     MySQl, postgresql
     
 - 🎛️ Operating Systen:
-    Windows
+    Linux
     
 - 💻 IDEs/Editors:
     
