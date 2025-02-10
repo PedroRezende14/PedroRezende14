@@ -1,6 +1,9 @@
-## Hi there 👋
-- 🔭 I’m currently working on Magazord Digital Commerce
-- 🌱 I’m currently learning java, php, c#  
+Hi there! 👋
+
+🚀 About Me
+🔭 I’m currently working at Magazord Digital Commerce
+🌱 I’m currently learning Java, PHP, C#
+💡 Passionate about software development, backend technologies, and system architecture.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
@@ -14,7 +17,7 @@
 <p align="center">
   
 - 📋 Languages:
-   Java, html, css, JS, php, c#
+   Java, html, css, JS, php, c# and Docker
     
 - 💾 Databases:
     MySQl, postgresql
@@ -26,6 +29,12 @@
     
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     
+
+
+📫 Contact
+
+📧 Email: pedro.rezende14@outlook.com
+💼 LinkedIn: [Pedro Rezende](https://www.linkedin.com/in/pedrolgrezende/)
 
 </p>
 <br> 
